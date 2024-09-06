@@ -1,0 +1,4 @@
+# E - Create a requirements.txt file that lists the packages and modules required to run your program, including the required versions of those packages and modules.
+# Created by running the command "python3 -m  pipreqs.pipreqs ." in the terminal
+Requests==2.32.3
+SQLAlchemy==2.0.25
